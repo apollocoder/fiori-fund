@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: '72';
+  src: url('/72_Web/72-Regular.woff2') format('woff'); /* Bold, Light, Regular available in woff and woff2 */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: '72';
+  src: url('/72_Web/72-Bold.woff2') format('woff'); /* Bold, Light, Regular available in woff and woff2 */
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: '72';
+  src: url('/72_Web/72-Italic.woff2') format('woff'); /* Bold, Light, Regular available in woff and woff2 */
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'SAP-icons';
+  src: url('/icons/SAP-icons.woff2') format('woff'); /* available in woff, woff2 and ttf */
+  font-weight: normal;
+  font-style: normal;
+}
